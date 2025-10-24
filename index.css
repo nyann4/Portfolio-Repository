@@ -491,9 +491,9 @@ body:not(.user-is-tabbing) a:focus {
     transition: all .3s;
 }
 
-.work__code:hover {
+/* .work__code:hover {
     transform: scale(1.2);
-}
+} */
 
 .work__image-box {
     margin-bottom: var(--gutter-normal);
