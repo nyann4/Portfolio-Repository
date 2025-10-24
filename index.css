@@ -130,8 +130,8 @@ h3 {
 /* -------------Modifications---------- */
 h4 {
     font-family: 'Jost', sans-serif;
-    font-weight: 450;
-    line-height: var(--line-height-small);
+    font-weight: 550;
+    line-height: var(--line-height-normal);
     color: var(--pink);
 }
 
