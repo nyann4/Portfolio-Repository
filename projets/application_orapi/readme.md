@@ -1,11 +1,12 @@
-# Portfolio Template
+# Application Stock Checker - Optimisation de la gestion stocks
 
-### A beautiful minimal and accessible portfolio template for Developers ✨.
+### Voici un aperçu des fonctionnalités de cette application
 
-To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 
+Fonctionnalité Ajouter
 ![add_fuctionnality](/projets/application_orapi/add_functionnality.gif)
 
+Retrouvez la vidéo complète ici https://youtu.be/L5knTHlQGmA
 ## Want to learn How to create a template like this ?
 
 You can watch [this video series](https://www.youtube.com/watch?v=1nchVfpMGSg&list=PLwJBGAxcH7GzdavgKlCACbESzr-40lw3L) on my youtube channel where I re-create this from scratch. 
