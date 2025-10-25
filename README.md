@@ -4,7 +4,7 @@
 
 To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 
-![Portfolio Gif](/images/portfolio.gif)
+![Portfolio Gif](/projets/application_orapi/add_functionnality.gif)
 
 ## Want to learn How to create a template like this ?
 
