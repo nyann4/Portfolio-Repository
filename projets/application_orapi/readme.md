@@ -4,7 +4,7 @@
 
 To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 
-![Portfolio Gif](/images/portfolio.gif)
+![Portfolio Gif](/video/add_functionnality.mp4)
 
 ## Want to learn How to create a template like this ?
 
@@ -24,7 +24,7 @@ You can watch [this video series](https://www.youtube.com/watch?v=1nchVfpMGSg&li
 
 ## Lighthouse Report
 
-![Lighthouse Report](/video/add_functionnality.mp4)
+![Lighthouse Report]()
 
 ### Contributions are warmly welcomed ❤️.
 
