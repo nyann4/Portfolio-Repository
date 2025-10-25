@@ -3,7 +3,7 @@
 ### Voici un aperçu des fonctionnalités de cette application
 
 
-Fonctionnalité Ajouter
+### Fonctionnalité Ajouter
 
 ![add_fuctionnality](/projets/application_orapi/add_functionnality.gif)
 
