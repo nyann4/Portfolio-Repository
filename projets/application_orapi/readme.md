@@ -4,7 +4,7 @@
 
 To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 
-![Fonctionnalité ajouter](./video/add_functionnality.mp4)
+![Fonctionnalité ajouter](./vidéo/add_functionnality.mp4)
 
 ## Want to learn How to create a template like this ?
 
