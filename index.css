@@ -221,7 +221,8 @@ body:not(.user-is-tabbing) a:focus {
     color: var(--pink);
 }
 
-.btn {
+.btn,
+button{
     position: relative;
     display: inline-block;
     padding: 1rem 4.2rem;
@@ -231,11 +232,13 @@ body:not(.user-is-tabbing) a:focus {
     font-weight: 400;
 }
 
-.btn:focus {
+.btn:focus,
+button:focus {
     outline: none;
 }
 
-.btn::after {
+.btn::after,
+button::after {
     content: '';
     display: block;
     position: absolute;
@@ -249,7 +252,9 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 .btn:hover::after,
-.btn:focus::after {
+.btn:focus::after,
+button:hover::after,
+button:focus::after{
     right: 0;
     background: var(--pink);
 }
