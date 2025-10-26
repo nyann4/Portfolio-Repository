@@ -273,6 +273,14 @@ body:not(.user-is-tabbing) a:focus {
     cursor: pointer;
 }
 
+.btn--pink:hover span {
+  display: none
+}
+
+.btn--pink:hover:before {
+  content: "Copier l'adresse"
+}
+
 .link__text {
     position: relative;
     display: inline-block;
@@ -281,6 +289,7 @@ body:not(.user-is-tabbing) a:focus {
     text-decoration: none;
     border-bottom: 1px solid var(--pink);
 }
+
 
 .link__text::after {
     content: '';
