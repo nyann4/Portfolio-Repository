@@ -251,6 +251,7 @@ body:not(.user-is-tabbing) a:focus {
 .btn:focus::after{
     right: 0;
     background: var(--pink);
+    cursor: pointer;
 }
 
 .btn--pink {
