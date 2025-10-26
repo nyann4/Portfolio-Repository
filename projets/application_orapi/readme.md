@@ -20,7 +20,6 @@
 
 ![add_fuctionnality](/projets/application_orapi/emplacement_research_functionnality.gif)
 
-Retrouvez la vidéo complète ici : https://www.youtube.com/watch?v=yIw7N3gqy_A
 
 
 
