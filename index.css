@@ -194,8 +194,7 @@ p {
 /* ----- Buttons and Links ----- */
 /* --------------------------------------- */
 
-a,
-button  {
+a  {
     color: var(--pink);
     font-weight: 400;
     font-family: 'Jost', sans-serif;
@@ -207,7 +206,7 @@ button  {
     border: 0;
 }
 
-button:focus,
+
 a:focus {
     outline: 2px solid var(--pink);
 }
@@ -221,8 +220,7 @@ body:not(.user-is-tabbing) a:focus {
     color: var(--pink);
 }
 
-.btn,
-button{
+.btn{
     position: relative;
     display: inline-block;
     padding: 1rem 4.2rem;
@@ -232,13 +230,11 @@ button{
     font-weight: 400;
 }
 
-.btn:focus,
-button:focus {
+.btn:focus {
     outline: none;
 }
 
-.btn::after,
-button::after {
+.btn::after {
     content: '';
     display: block;
     position: absolute;
@@ -252,9 +248,7 @@ button::after {
 }
 
 .btn:hover::after,
-.btn:focus::after,
-button:hover::after,
-button:focus::after{
+.btn:focus::after{
     right: 0;
     background: var(--pink);
 }
