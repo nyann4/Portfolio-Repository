@@ -44,7 +44,7 @@ window.addEventListener("scroll", () => {
 
 function ClipboardCopy() {
   // Get the text field
-  var copyText = document.getElementById("myInput");
+  var copyText = document.getElementById("myText");
 
   // Select the text field
   copyText.select();
