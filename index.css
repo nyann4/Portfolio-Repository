@@ -202,6 +202,14 @@ a {
     outline: 2px solid transparent;
 }
 
+button {
+    color: var(--white);
+    font-weight: 400;
+    font-family: 'Jost', sans-serif;
+    transition: all .2s;
+    outline: 2px solid transparent;
+}
+
 ::-moz-focus-inner {
     border: 0;
 }
