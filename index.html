@@ -208,8 +208,10 @@
           Si vous recherchez un Data Analyst efficace, inventif et qui a la volonté d'apprendre, n'hésitez pas à me contacter par email ! 
         </p>
         <!-- Replace the email with yours -->
-        <button id="myText" value="yann.fritz888@gmail.com" class="btn btn--pink" onclick="copyContent()">yann.fritz888@gmail.com</button>
-        
+        <div class="tooltip">
+        <button id="myText" value="yann.fritz888@gmail.com" class="btn btn--pink" onclick="copyContent()" onmouseout="outFunc()">
+          <span class="tooltiptext" id="myTooltip">Copier l'adresse</span>yann.fritz888@gmail.com</button>
+        </div>
         <script>
           let text = document.getElementById('myText').innerHTML;
           const copyContent = async () => {
@@ -219,6 +221,14 @@
             } catch (err) {
               console.error('Failed to copy: ', err);
             }
+          
+              var tooltip = document.getElementById("myTooltip");
+              tooltip.innerHTML = "Copied: " + copyText.value;
+          }
+          
+          function outFunc() {
+            var tooltip = document.getElementById("myTooltip");
+            tooltip.innerHTML = "Copy to clipboard";
           }
         </script>
       </div>
