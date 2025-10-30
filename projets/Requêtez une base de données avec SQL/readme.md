@@ -7,7 +7,9 @@ Les objectifs vont être :
 - D'écrire nos premières requêtes SQL
 
 Vous pouvez consulter un aperçu de mon travail à l'aide de ce support de présentation : 
+
 https://docs.google.com/presentation/d/1wh027GjWzoSomWsGd7jCY6wnP7rucsMR/edit?usp=sharing&ouid=117142986737401361515&rtpof=true&sd=true
 
 Et voici les requêtes que j'ai écrites et leur résultat :
+
 https://docs.google.com/presentation/d/1FZUqLS6UTa8Z683XkRuWhV96Nam7e17f/edit?usp=sharing&ouid=117142986737401361515&rtpof=true&sd=true
