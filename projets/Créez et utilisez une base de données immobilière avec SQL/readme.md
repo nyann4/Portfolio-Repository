@@ -10,6 +10,7 @@ Les objectifs vont être :
 
 Vous pouvez consulter un aperçu de mon travail à l'aide de ce support de présentation :
 (Vous y trouverez également en annexe les résultats de toutes les requêtes SQL)
+
 https://docs.google.com/presentation/d/1NkKnNoljn2dg9mtPZ_2MKo_zQ_3mjDSz7Me213BLSgo/edit?usp=sharing
 
 
