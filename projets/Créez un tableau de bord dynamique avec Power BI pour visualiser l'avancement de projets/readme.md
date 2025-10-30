@@ -5,11 +5,11 @@ et de qui en est responsable.
 Les objectifs vont être :
 
 - Exprimer les besoins clients à l'aide d'un Product Strategy Canvas
-- Créer des roles permettant de cloisonner l'accès aux informations entre les différents directeurs
+- Créer des roles permettant de cloisonner l'accès aux informations entre les différents responsables
 - Créer des vues correspondant à chacun des besoins clients
-- Créer un système d'alerte indiquant qu'un projet dépasse un certain seuil de ressources utilisées
-De créer et charger une base de donnée
-D'écrire nos premières requêtes SQL
+- Créer un système d'alerte indiquant qu'un projet dépasse le seuil en termes de ressources utilisées
+
+
 Vous pouvez consulter directement le Dashboard en utilisant ce lien :</br>
 
 https://app.powerbi.com/groups/me/reports/922cd034-1f19-4083-89ad-968ea83fc846/671153515300084084cd?experience=power-bi
