@@ -6,7 +6,7 @@ Les objectifs vont être :
 - Comprendre le fonctionnement de L'ERP et les intéractions avec les différents fichiers
 - Isoler les colonnes utiles pour l'analyse et les explorer
 - Effectuer du nettoyage et des corrections sur les données
-- Effectuer des analyses univariées approfondies
+- Réaliser des analyses univariées approfondies
 
 Vous pouvez consulter un aperçu de mon travail à l'aide de ce support de présentation :
 
