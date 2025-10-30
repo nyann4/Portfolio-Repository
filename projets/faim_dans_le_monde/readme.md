@@ -10,4 +10,4 @@ https://docs.google.com/presentation/d/1DVepUA38wZ-u7M_82QV5EWamFF3j5udmRzPyb2BY
 
 Vous trouverez également le notebook Python ici :
 
-https://github.com/nyann4/Portfolio-Repository/blob/main/projets/faim_dans_le_monde/Fritz_Yann_n%C2%B04_Jupyter_notebook_11_2024.ipynb
+https://github.com/nyann4/Portfolio-Repository/blob/main/projets/faim_dans_le_monde/Notebook_Analyse_Sous_Nutrion.ipynb
