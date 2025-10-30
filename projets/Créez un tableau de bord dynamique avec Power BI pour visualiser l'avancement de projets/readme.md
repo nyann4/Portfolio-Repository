@@ -2,12 +2,14 @@ Ce projet constitue une introduction à l'outil de visualisation PowerBI.
 
 Les objectifs vont être :
 
-De découvrir ce que sont les dictionnaires de données
+- Exprimer les besoins clients à l'aide d'un Product Strategy Canvas
 De concevoir un schéma relationnel
 De créer et charger une base de donnée
 D'écrire nos premières requêtes SQL
-Vous pouvez consulter un aperçu de mon travail à l'aide de ce support de présentation :
+Vous pouvez consulter directement le Dashboard en utilisant ce lien :</br>
 
-https://docs.google.com/presentation/d/1wh027GjWzoSomWsGd7jCY6wnP7rucsMR/edit?usp=sharing&ouid=117142986737401361515&rtpof=true&sd=true
+https://app.powerbi.com/groups/me/reports/922cd034-1f19-4083-89ad-968ea83fc846/671153515300084084cd?experience=power-bi
 
-Et voici les requêtes que j'ai écrites et leur résultat :
+Vous trouverez ici le Product Strategy Canvas compléter : </br>
+
+https://docs.google.com/document/d/104SYnQtY2_KZ7zDuDmybTjXhitvnAq0A/edit?usp=sharing&ouid=117142986737401361515&rtpof=true&sd=true
