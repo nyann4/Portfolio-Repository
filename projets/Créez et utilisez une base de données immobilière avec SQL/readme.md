@@ -8,7 +8,7 @@ Les objectifs vont être :
 - Se conformer au RGPD dans nos analyses et les données que l'on choisit de préserver
 - Ecrire des requêtes SQL plus avancées qui vont inclure des agrégations, des filtres et des jointures multiples
 
-Vous pouvez consulter un aperçu de mon travail à l'aide de ce support de présentation :
+Vous pouvez consulter un aperçu de mon travail à l'aide de ce support de présentation :<br />
 (Vous y trouverez également en annexe les résultats de toutes les requêtes SQL)
 
 https://docs.google.com/presentation/d/1NkKnNoljn2dg9mtPZ_2MKo_zQ_3mjDSz7Me213BLSgo/edit?usp=sharing
