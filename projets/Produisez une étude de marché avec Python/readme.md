@@ -14,9 +14,9 @@ Vous pouvez consulter un aperçu de mon travail à l'aide de ce support de prés
 
 https://docs.google.com/presentation/d/1D4ThQ73oL4ft3fNe-nkrun-QzqDfYrh-dQZP3lJP9hs/edit?usp=sharing
 
-Vous trouverez également le notebook Python du traitement des données ici :
+Vous trouverez également le notebook Python du traitement des données ici :</br>
 https://github.com/nyann4/Portfolio-Repository/blob/main/projets/Produisez%20une%20%C3%A9tude%20de%20march%C3%A9%20avec%20Python/traitement.ipynb
 
-Et le notebook Python de l'ACP et du clustering ici :
+Et le notebook Python de l'ACP et du clustering ici :</br>
 https://github.com/nyann4/Portfolio-Repository/blob/main/projets/Produisez%20une%20%C3%A9tude%20de%20march%C3%A9%20avec%20Python/acp_clustering.ipynb
 
