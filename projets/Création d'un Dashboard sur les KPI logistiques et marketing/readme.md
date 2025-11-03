@@ -1,12 +1,17 @@
-Ce projet nous permet d'entrée plus en profondeur dans l'analyse univariée avec Python pour
-permettre d'évoquer des axes d'amélioration marketing de la gestion des données.
+Ce projet a été réalisé dans le but mettre en lumière des insights autour des ruptures de produits et de la productivité. </br>
+Il s'agit d'un projet qui est nait de mon initiative et qui est une alternative au projet correspondant d'OpenClassrooms.
 
 Les objectifs vont être :
+- Récupérer automatiquement les informations contenus dans la pièce jointe d'un mail
+- Nettoyer et transformer ces informations à l'aide d'un script Python hébergé sur GCP
+- Maintenir une base de donnée temporelle via Google Sheet et GCP
+- Utiliser cette base de donnée pour alimenter un Dashboard PowerBI automatiquement
+- Etudier et analyser les ruptures de produits et la productivité pour développer des stratégies
 
-Comprendre le fonctionnement de L'ERP et les intéractions avec les différents fichiers
-Isoler les colonnes utiles pour l'analyse et les explorer
-Effectuer du nettoyage et des corrections sur les données
-Réaliser des analyses univariées approfondies
-Vous pouvez consulter un aperçu de mon travail à l'aide de ce support de présentation :
+Vous pouvez consulter directement le Dashboard en utilisant ce lien :
 
-https://docs.google.com/presentation/d/1i3blPQGjMdbxxgs6ERBEMgpmoyKm29_fpFvWKqhI_qg/edit?usp=sharing
+https://app.powerbi.com/groups/me/reports/588888dd-22f0-47be-924d-6e04bbe6d598/01f2c2263a2856b1789e?experience=power-bi
+
+Vous pouvez également consulter un aperçu de mon travail à l'aide de ce support de présentation :
+
+https://docs.google.com/presentation/d/1ZzGPUIxxNHxAjh5oRX79EnERryR7cQ7UtDIuhecJwzI/edit?slide=id.g39fcb1bef30_0_18#slide=id.g39fcb1bef30_0_18
