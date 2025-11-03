@@ -14,6 +14,10 @@ Vous pouvez consulter directement le Dashboard en utilisant ce lien :</br>
 
 https://app.powerbi.com/groups/me/reports/922cd034-1f19-4083-89ad-968ea83fc846/671153515300084084cd?experience=power-bi
 
+Si vous ne disposez pas de compte Microsoft, vous pouvez consulter un aperçu du Dashboard dans la section "Aperçu" :
+
+https://docs.google.com/presentation/d/1fQvmKj_rNJStp11CF1amwv4Wf7oGfoiNNwMSIS5OptQ/edit?slide=id.p#slide=id.p
+
 Vous trouverez ici le Product Strategy Canvas compléter : </br>
 
 https://docs.google.com/document/d/104SYnQtY2_KZ7zDuDmybTjXhitvnAq0A/edit?usp=sharing&ouid=117142986737401361515&rtpof=true&sd=true
