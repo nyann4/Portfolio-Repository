@@ -1,6 +1,6 @@
 Ce projet constitue une introduction au langage Python.
 
-![Texte alternatif](/projets/Réalisez une étude de santé publique avec Python/Etude faim dans le monde.png "Titre de l'image")
+![image](/projets/Réalisez une étude de santé publique avec Python/Etude faim dans le monde.png "Titre de l'image")
 
 L'objectif va être de fournir une analyse complète des ressources alimentaires mondiales et de leur utilisation. Les données utilisées se rapportent aux années 2013 à 2017 et devront mettre en lumière la sous-nutrition par région du monde ainsi que les causes de ces inégalités.
 
