@@ -10,6 +10,7 @@ Les objectifs vont être :
 - Isoler les colonnes utiles pour l'analyse et les explorer
 - Effectuer du nettoyage et des corrections sur les données
 - Réaliser des analyses univariées approfondies
-- Vous pouvez consulter un aperçu de mon travail à l'aide de ce support de présentation :
+
+Vous pouvez consulter un aperçu de mon travail à l'aide de ce support de présentation :
 
 https://docs.google.com/presentation/d/1i3blPQGjMdbxxgs6ERBEMgpmoyKm29_fpFvWKqhI_qg/edit?usp=sharing
