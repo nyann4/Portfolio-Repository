@@ -2,7 +2,7 @@ Ce projet a été réalisé dans le but mettre en lumière des insights autour d
 Il s'agit d'un projet qui est nait de mon initiative et qui est une alternative au projet correspondant d'OpenClassrooms.
 
 Les objectifs vont être :
-- Récupérer automatiquement les informations contenus dans la pièce jointe d'un mail
+- Récupérer automatiquement les informations issus de la pièce jointe d'un mail
 - Nettoyer et transformer ces informations à l'aide d'un script Python hébergé sur GCP
 - Maintenir une base de donnée temporelle via Google Sheet et GCP
 - Utiliser cette base de donnée pour alimenter un Dashboard PowerBI automatiquement
