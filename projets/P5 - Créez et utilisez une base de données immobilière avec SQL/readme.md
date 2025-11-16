@@ -7,7 +7,7 @@ Les objectifs vont être :
 - Concevoir un schéma relationnel qui respecte la 3NF (3 ème Forme Normale)
 - Créer des tables et y importer des données en prenant en compte la gestion de contraintes
 - Se conformer au RGPD dans nos analyses et les données que l'on choisit de préserver
-- Ecrire des requêtes SQL plus avancées qui vont inclure des agrégations, des filtres et des jointures multiples
+- Ecrire des requêtes SQL plus avancées qui vont inclurent des agrégations, des filtres et des jointures multiples
 
 Vous pouvez consulter un aperçu de mon travail à l'aide de ce support de présentation :<br />
 (Vous y trouverez également en annexe les résultats de toutes les requêtes SQL)
