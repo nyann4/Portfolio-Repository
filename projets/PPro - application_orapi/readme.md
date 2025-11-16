@@ -5,7 +5,7 @@
 
 ### Fonctionnalité : Ajouter un produit ( https://youtu.be/L5knTHlQGmA) 
 
-![add_fuctionnality](/projets/PPro - application_orapi/add_functionnality.gif)
+![add_fuctionnality]([/projets/PPro-application_orapi/add_functionnality.gif](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/PPro%20-%20application_orapi/add_functionnality.gif))
 
 
 
