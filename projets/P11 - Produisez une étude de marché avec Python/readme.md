@@ -1,7 +1,7 @@
 Ce projet va encore plus loin dans l'analyse en nous faisant découvrir la réduction de dimension </br>
 pour permettre d'effectuer une étude de marché dans le domaine de la vente de poulet pour un client fictif.
 
-![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/Produisez%20une%20%C3%A9tude%20de%20march%C3%A9%20avec%20Python/Projet%2011.png)
+![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/P11%20-%20Produisez%20une%20%C3%A9tude%20de%20march%C3%A9%20avec%20Python/Projet%2011.png)
 
 
 Les objectifs vont être :
