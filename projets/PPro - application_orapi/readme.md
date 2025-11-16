@@ -11,14 +11,14 @@
 
 ### Fonctionnalité : Supprimer un produit ( https://www.youtube.com/watch?v=dsT_e0zC9XA )
 
-![add_fuctionnality](/projets/PPro - application_orapi/delete_functionnality.gif)
+![add_fuctionnality](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/PPro%20-%20application_orapi/delete_functionnality.gif)
 
 
 
 
 ### Fonctionnalité : Recherche d'emplacements vides par volume
 
-![add_fuctionnality](/projets/PPro - application_orapi/emplacement_research_functionnality.gif)
+![add_fuctionnality](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/PPro%20-%20application_orapi/emplacement_research_functionnality.gif)
 
 
 
@@ -26,11 +26,11 @@
 
 ### Fonctionnalité : Envoi d'une liste d'emplacement pour impression (https://www.youtube.com/watch?v=RGpD1U1BwfI )
 
-![add_fuctionnality](/projets/PPro - application_orapi/send_gsheet_functionnality.gif)
+![add_fuctionnality](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/PPro%20-%20application_orapi/send_gsheet_functionnality.gif)
 
 
 
 
 ### Fonctionnalité : Inventaire tournant aléatoire ( https://www.youtube.com/watch?v=FAPeT9o5p-Y )
 
-![add_fuctionnality](/projets/PPro - application_orapi/random_inventory_functionnality.gif)
+![add_fuctionnality](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/PPro%20-%20application_orapi/random_inventory_functionnality.gif)
