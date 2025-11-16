@@ -1,7 +1,7 @@
 Ce projet nous permet d'entrer plus en profondeur dans l'analyse univariée avec Python pour
 permettre d'évoquer des axes d'amélioration marketing de la gestion des données.
 
-![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/D%C3%A9tectez%20des%20faux%20billets%20avec%20Python/Projet%2012.png)
+![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/P12%20-%20D%C3%A9tectez%20des%20faux%20billets%20avec%20Python/Projet%2012.png)
 
 
 Les objectifs vont être :
