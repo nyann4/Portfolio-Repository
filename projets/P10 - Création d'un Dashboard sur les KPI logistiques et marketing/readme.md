@@ -1,6 +1,9 @@
 Ce projet a été réalisé dans le but mettre en lumière des insights autour des ruptures de produits et de la productivité. </br>
 Il s'agit d'un projet qui est nait de mon initiative et qui est une alternative au projet correspondant d'OpenClassrooms.
 
+![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/P10%20-%20Cr%C3%A9ation%20d'un%20Dashboard%20sur%20les%20KPI%20logistiques%20et%20marketing/Dashboard%20Orapi.png)
+
+
 Les objectifs vont être :
 - Récupérer automatiquement les informations issus de la pièce jointe d'un mail
 - Nettoyer et transformer ces informations à l'aide d'un script Python hébergé sur GCP
