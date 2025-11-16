@@ -2,7 +2,7 @@ Ce projet nous permet d'entrée plus en profondeur dans l'analyse univariée ave
 permettre d'évoquer des axes d'amélioration marketing de la gestion des données.
 
 
-![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/Analysez%20les%20ventes%20d'une%20librairie%20avec%20Python/Projet%209.png)
+![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/P9%20-%20Analysez%20les%20ventes%20d'une%20librairie%20avec%20Python/Projet%209.png)
 
 
 Les objectifs vont être :
