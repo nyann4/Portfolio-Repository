@@ -2,7 +2,13 @@ Il s'agit ici du projet finale de la formation Data Analyst d'Openclassrooms, il
 de nos compéténces synthétiques, analytiques et techniques par la création d'un portfolio professionnelle dans le cadre </br>
 d'une candidature pour l'entreprise fictive Aeroworld.
 
-![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/Requ%C3%AAtez%20une%20base%20de%20donn%C3%A9es%20avec%20SQL/Projet%203.png)
+![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/P13%20-%20Cr%C3%A9ez%20votre%20portfolio%20de%20professionnel%20de%20la%20Data/aeroworld.png)
+
+
+Présentation de l'entreprise Aeroworld :
+
+https://vimeo.com/1039596817/5400d2ff1a?share=copy
+
 
 Les objectifs vont être :
 
