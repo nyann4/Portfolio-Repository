@@ -24,15 +24,17 @@ Les objectifs vont être :
 
 Livrables Power BI:
 
-Diagramme de Gantt :
+- Diagramme de Gantt :
 
 https://app.powerbi.com/groups/me/reports/e0500bc3-b0ea-4661-a8d2-20d54772fa1f/13fc3d773d8906e39d52?experience=power-bi
 
-Veille métier :
+- Veille métier :
 
 https://app.powerbi.com/groups/me/reports/d65651b6-d4c9-49d7-9b15-095653bd9952/29024a5b0aa7dba00471?experience=power-bi
 
-Portfolio :
+- Portfolio :
 
 https://app.powerbi.com/groups/me/reports/67806cf2-794b-4854-9dff-739256f6c99d/683d42e46bc206b47b9a?experience=power-bi
 
+Tutoriel vidéo PowerBI :
+- https://youtu.be/PuFMwcI7xac
