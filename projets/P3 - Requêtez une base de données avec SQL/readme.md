@@ -1,6 +1,6 @@
 Ce projet constitue une introduction au langage SQL
 
-![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/P3%20-%20Requ%C3%AAtez%20une%20base%20de%20donn%C3%A9es%20avec%20SQL/Projet%203.png)
+![alt text](images/background_data_analyst.jpg)
 
 
 Les objectifs vont être : 
