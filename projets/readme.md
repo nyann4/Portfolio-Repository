@@ -1,4 +1,7 @@
-##Dépôt Github formation Data Analyst Openclassrooms
+Dépôt Github formation Data Analyst Openclassrooms
+
+
+![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/images/background_data_analyst.jpg)
 
 Vous trouverez ici le détail de chacun des projets que j'ai finalisé lors de ma formation ainsi 
 que les objectifs qu'ils contenaient et les livrables correspondants.
