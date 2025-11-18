@@ -2,19 +2,19 @@
 
 Il s'agit d'un projet réalisé en parallèle de mon activité de préparateur de commandes. 
 Celui-ci avait dans un premier temps pour but d'améliorer la qualité des données se rapportant à l'entrepôt : 
-- Nombre d'emplacement existant
+- Nombre d'emplacements existants
 - Volume disponible par emplacement
-- Emplacement inacessible non-renseigné
-- Stock non enregistrés ..
+- Emplacements inaccessibles non renseignés
+- Stocks non enregistrés ...
 
 J'ai ensuite combiné ces données à celles issus de l'ERP de l'entreprise pour créer des fonctionnalités.
-Ces fonctionnalités ont permis de gagner en temps et en précision dans divers processus tel que :
-- le réapprovionnement des pickings
-- l'inventaire
-- la mise en stock de marchandise
-- la gestion des consommables
+Ces fonctionnalités ont permis de gagner en temps et en précision dans divers processus tels que :
+- le réapprovisionnement des pickings
+- les inventaires
 - la réception de marchandises
-- la préparation de commandes ..
+- la mise en stock de marchandises
+- la gestion des consommables
+- la préparation de commandes ...
 
 
 
