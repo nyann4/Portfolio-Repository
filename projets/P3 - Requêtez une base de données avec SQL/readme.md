@@ -1,7 +1,7 @@
 Ce projet constitue une introduction au langage SQL
 
-![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/images/background_data_analyst.jpg)
 
+![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/P3%20-%20Requ%C3%AAtez%20une%20base%20de%20donn%C3%A9es%20avec%20SQL/Projet%203.png)
 
 Les objectifs vont être : 
 - De découvrir ce que sont les dictionnaires de données
