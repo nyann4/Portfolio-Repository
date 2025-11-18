@@ -1,4 +1,4 @@
-Ce projet constitue une extension du projet précédent sur SQL
+Ce projet constitue une extension du projet précédent sur SQL. </br>
 Il permet d'appronfondir nos connaissances avec des objectifs plus complexes tout en gardant le même thème, à savoir l'immobilier.
 
 ![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/P5%20-%20Cr%C3%A9ez%20et%20utilisez%20une%20base%20de%20donn%C3%A9es%20immobili%C3%A8re%20avec%20SQL/Projet%205.png)
