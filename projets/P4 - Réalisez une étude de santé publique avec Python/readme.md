@@ -4,7 +4,7 @@ Ce projet constitue une introduction au langage Python.
 
 L'objectif va être de fournir une analyse complète des ressources alimentaires mondiales et de leur utilisation. Les données utilisées se rapportent aux années 2013 à 2017 et devront mettre en lumière la sous-nutrition par région du monde ainsi que les causes de ces inégalités.
 
-Nous devrons croiser plusieurs tables de données et il s'agira d'un premier pas vers l'analyse univariée et le nettoyage de volume conséquent de données en Python.
+Nous devrons croiser plusieurs tables de données et il s'agira d'un premier pas vers l'analyse univariée et le nettoyage de volume de données conséquent avec Python.
 
 Vous pouvez consulter un aperçu de mon travail à l'aide de ce support de présentation :
 
