@@ -1,6 +1,6 @@
 Ce projet constitue une introduction au langage SQL
 
-![alt text](images/background_data_analyst.jpg)
+![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/images/background_data_analyst.jpg)
 
 
 Les objectifs vont être : 
