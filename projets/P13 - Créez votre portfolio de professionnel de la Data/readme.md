@@ -32,28 +32,26 @@ https://vimeo.com/1039596817/5400d2ff1a?share=copy
 
 Ce que le chef de projet devra mettre en place :
   - Élaboration d’une stratégie globale de gestion de données (gouvernance, architecture, qualité).
-  -Pipelines de données fiables, automatisés et évolutifs.
+  - Pipelines de données fiables, automatisés et évolutifs.
 
 
 
 ## 2. Aide à l’implémentation d’un Data Lake
-  -  Stocker et structurer efficacement des données
-  -  hétérogènes et volumineuses.
-
-### Permettre leur analyse transversale et leur exploitation.
+  -  Stocker et structurer efficacement des donnéeshétérogènes et volumineuses.
+  -  Permettre leur analyse transversale et leur exploitation.
 
 Ce que le chef de projet devra mettre en place :
   - Aider à la conception et au déploiement d'une infrastructure de type 
   - Data Lake adaptée aux enjeux métier.
   - Coordonner les équipes IT et data pour intégrer les flux de données
-  de manière fluide.
+    de manière fluide.
 
 
 
 ## 3. Analyse avancée (Machine Learning & IA)
   - Anticiper les besoins en maintenance, optimiser les performances, améliorer la sécurité.
 
-### Ce que le chef de projet devra mettre en place :
+Ce que le chef de projet devra mettre en place :
   - Encadrer la conception et mise en activité de modèles de Machine Learning.
   - Garantir la mise en production, la surveillance et le suivi des performances des modèles IA.
   - Création de reporting régulier rendant compte de l’impact des modèles de Machine Learning sur les KPI liés aux analyses avancées
@@ -63,7 +61,7 @@ Ce que le chef de projet devra mettre en place :
 ## 4. Intégration et interopérabilité des sources de données
   - Rassembler et harmoniser les informations venant de différents services (recherche, production, maintenance ou service client) pour obtenir une vision claire et complète de l’activité.
 
-### Ce que le chef de projet devra mettre en place :
+Ce que le chef de projet devra mettre en place :
   - Participer à la mise en synergie de son département avec les autres branches de l’entreprise.
   - Définir une architecture de données interopérable (ex. : via API, ETL).
   - Création d’une procédure d’échange de données utilisant le même vocabulaire métier et le même format.
@@ -74,7 +72,7 @@ Ce que le chef de projet devra mettre en place :
   - Protéger les données sensibles (plans, données clients, opérations).
   - Répondre aux enjeux de cybersécurité et de conformité réglementaire.
 
-### Ce que le chef de projet devra mettre en place :
+Ce que le chef de projet devra mettre en place :
   - Collaborer avec les équipes de sécurité pour intégrer les exigences de protection dès la conception des systèmes.
   - Superviser les audits de sécurité et garantir la conformité (RGPD, normes internes, etc.).
 
