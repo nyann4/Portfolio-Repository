@@ -31,9 +31,10 @@ https://vimeo.com/1039596817/5400d2ff1a?share=copy
   -  Exploiter ces données pour améliorer la conception, la performance et la maintenance des appareils.
 
 Projets correspondant :
-  - Projet 4 - Réalisez une étude de santé publique avec Python
-  - Projet 10 - Création d'un Dashboard sur les KPI logistiques et marketing
-  - Projet Pro - Application entreprise Orapi
+  - Projet 4 : Réalisez une étude de santé publique avec Python
+  - Projet 5 : Requêtez une base de données avec SQL
+  - Projet 10 : Création d'un Dashboard sur les KPI logistiques et marketing
+  - Projet Pro : Application entreprise Orapi
 
 
 
@@ -42,28 +43,29 @@ Projets correspondant :
   -  Permettre leur analyse transversale et leur exploitation.
 
 Projets correspondant :
-  - Projet 9
-  - Projet 10
+  - Projet 9 : Analysez les ventes d'une librairie avec Python
+  - Projet 10 : Création d'un Dashboard sur les KPI logistiques et marketing
 
 
 
 ## 3. Analyse avancée (Machine Learning & IA)
   - Anticiper les besoins en maintenance, optimiser les performances, améliorer la sécurité.
 
-Ce que le chef de projet devra mettre en place :
-  - Encadrer la conception et mise en activité de modèles de Machine Learning.
-  - Garantir la mise en production, la surveillance et le suivi des performances des modèles IA.
-  - Création de reporting régulier rendant compte de l’impact des modèles de Machine Learning sur les KPI liés aux analyses avancées
+Projets correspondant :
+  - Projet 11 : Produisez une étude de marché avec Python
+  - Projet 12 : Détectez des faux billets avec Python
 
 
 
 ## 4. Intégration et interopérabilité des sources de données
   - Rassembler et harmoniser les informations venant de différents services (recherche, production, maintenance ou service client) pour obtenir une vision claire et complète de l’activité.
 
-Ce que le chef de projet devra mettre en place :
-  - Participer à la mise en synergie de son département avec les autres branches de l’entreprise.
-  - Définir une architecture de données interopérable (ex. : via API, ETL).
-  - Création d’une procédure d’échange de données utilisant le même vocabulaire métier et le même format.
+Projets correspondant :
+  - Projet 8 : Analysez des indicateurs de l'égalités femmes-hommes
+  - Projet 9 : Analysez les ventes d'une librairie avec Python
+  - Projet 10 : Création d'un Dashboard sur les KPI logistiques et marketing
+  - Projet 11 : Produisez une étude de marché avec Python
+  
 
    
 
@@ -71,9 +73,10 @@ Ce que le chef de projet devra mettre en place :
   - Protéger les données sensibles (plans, données clients, opérations).
   - Répondre aux enjeux de cybersécurité et de conformité réglementaire.
 
-Ce que le chef de projet devra mettre en place :
-  - Collaborer avec les équipes de sécurité pour intégrer les exigences de protection dès la conception des systèmes.
-  - Superviser les audits de sécurité et garantir la conformité (RGPD, normes internes, etc.).
+Projets correspondant :
+  - Projet 5 : Requêtez une base de données avec SQL
+  - Projet 8 : Analysez des indicateurs de l'égalités femmes-hommes
+  - Projet 10 : Création d'un Dashboard sur les KPI logistiques et marketing
 
 
 
