@@ -2,7 +2,7 @@ Ce projet constitue une introduction à l'outil de visualisation PowerBI.
 Nous allons y créer un Dashboard permettant le suivi de différent types de projets en fonction de leur localisation
 et de qui en est responsable.
 
-![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/P7%20-%20Cr%C3%A9ez%20un%20tableau%20de%20bord%20dynamique%20avec%20Power%20BI%20pour%20visualiser%20l'avancement%20de%20projets/Projet%207.png)
+![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/P07%20-%20Cr%C3%A9ez%20un%20tableau%20de%20bord%20dynamique%20avec%20Power%20BI%20pour%20visualiser%20l'avancement%20de%20projets/Projet%207.png)
 
 Les objectifs vont être :
 
