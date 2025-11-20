@@ -30,21 +30,20 @@ https://vimeo.com/1039596817/5400d2ff1a?share=copy
   -  Gérer un volume massif de données issues de sources multiples (essais en vol, capteurs, systèmes de maintenance, etc..).
   -  Exploiter ces données pour améliorer la conception, la performance et la maintenance des appareils.
 
-Ce que le chef de projet devra mettre en place :
-  - Élaboration d’une stratégie globale de gestion de données (gouvernance, architecture, qualité).
-  - Pipelines de données fiables, automatisés et évolutifs.
+Projets correspondant :
+  - Projet 4 - Réalisez une étude de santé publique avec Python
+  - Projet 10 - Création d'un Dashboard sur les KPI logistiques et marketing
+  - Projet Pro - Application entreprise Orapi
 
 
 
 ## 2. Aide à l’implémentation d’un Data Lake
-  -  Stocker et structurer efficacement des donnéeshétérogènes et volumineuses.
+  -  Stocker et structurer efficacement des données hétérogènes et volumineuses.
   -  Permettre leur analyse transversale et leur exploitation.
 
-Ce que le chef de projet devra mettre en place :
-  - Aider à la conception et au déploiement d'une infrastructure de type 
-  - Data Lake adaptée aux enjeux métier.
-  - Coordonner les équipes IT et data pour intégrer les flux de données
-    de manière fluide.
+Projets correspondant :
+  - Projet 9
+  - Projet 10
 
 
 
