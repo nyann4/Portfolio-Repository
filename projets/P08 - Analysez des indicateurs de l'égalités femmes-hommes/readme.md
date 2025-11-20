@@ -3,7 +3,7 @@ Dans celui-ci nous exploiterons l'outils Knime qui nous permettra d'automatiser 
 d'un rapport d'égalité hommes/femmes permettant de calculer ensuite un score, et ce de manière automatisée.
 
 
-![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/P8%20-%20Analysez%20des%20indicateurs%20de%20l'%C3%A9galit%C3%A9s%20femmes-hommes/Projet%2008.png)
+![alt text](https://github.com/nyann4/Portfolio-Repository/blob/main/projets/P08%20-%20Analysez%20des%20indicateurs%20de%20l'%C3%A9galit%C3%A9s%20femmes-hommes/Projet%208.png)
 
 Les objectifs vont être :
 
